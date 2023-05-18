@@ -14,6 +14,8 @@ import { SiDeviantart, SiEtsy, SiLinktree } from 'react-icons/si'
 import { TbBrandOnlyfans, TbPawFilled, TbWorldWww } from 'react-icons/tb'
 import { useLocalStorage } from 'usehooks-ts'
 
+export type Guest = (typeof guests)[0]
+
 const getWebsiteIcon = (website: string) => {
   switch (website) {
     case 'Instagram':
@@ -107,7 +109,7 @@ const GuestsPage: FC = () => {
               <div
                 id={guest.slug}
                 className={clsx(
-                  'card-compact card card-side relative shadow-md',
+                  'card card-side card-compact relative shadow-md',
                   isBookmarked
                     ? 'bg-primary text-primary-content'
                     : 'bg-neutral text-neutral-content'
