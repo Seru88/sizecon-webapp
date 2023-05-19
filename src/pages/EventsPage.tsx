@@ -7,6 +7,7 @@ import { BsBookmarkDashFill, BsBookmarkPlus } from 'react-icons/bs'
 import { HashLink } from 'react-router-hash-link'
 import { useLocalStorage } from 'usehooks-ts'
 import scrollToWithOffset from 'utilities/scrollToWithOffset'
+import { HiLocationMarker } from 'react-icons/hi'
 
 const EventsPage: FC = () => {
   const [eventsFilter, setEventsFilter] = useLocalStorage('eventsFilter', 'All')
@@ -79,13 +80,23 @@ const EventsPage: FC = () => {
                     : 'bg-neutral text-neutral-content'
                 )}
               >
-                <input type='checkbox' />
+                <input
+                  type='checkbox'
+                  title={event.title + '-checkbox'}
+                  placeholder=''
+                />
                 <div className='collapse-title flex space-x-2 pr-9 text-xl font-medium after:mt-4'>
                   <div>
                     <div>{event.title}</div>
+                    {event.location && (
+                      <div className='flex items-center space-x-1 text-sm'>
+                        <HiLocationMarker className='inline' />
+                        <div>{event.location}</div>
+                      </div>
+                    )}
                     <div
                       className={clsx(
-                        'badge badge-sm font-medium',
+                        'badge',
                         !isBookmarked && 'badge-primary'
                       )}
                     >

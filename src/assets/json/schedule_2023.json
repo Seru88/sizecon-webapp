@@ -5,7 +5,7 @@
     "date": "Friday, June 2nd 2023",
     "time": "8:00AM - 9:00AM",
     "description": "Wake up with your Size fam and grab the most important meal of the day! Enjoy breakfast along with fellow attendees at the hotel restaurant.",
-    "location": "",
+    "location": "Fusions Restaurant",
     "participants": []
   },
   {
@@ -73,7 +73,7 @@
     "date": "Friday, June 2nd 2023",
     "time": "12:00PM",
     "description": "Take a break and grab some grub! Enjoy lunch with fellow attendees at the hotel restaurant.",
-    "location": "",
+    "location": "Fusions Restaurant",
     "participants": []
   },
   {
@@ -202,7 +202,7 @@
     "date": "Friday, June 2nd 2023",
     "time": "5:00PM - 5:50PM",
     "description": "For fans of dudes expanding and/or putting on muscle - come sit and discuss how your interests came to be and how you enjoy them today!",
-    "location": "",
+    "location": "Miracle Room",
     "participants": []
   },
   {
@@ -334,7 +334,7 @@
     "date": "Saturday, June 3rd 2023",
     "time": "8:00AM - 8:50AM",
     "description": "Wake up with your Size fam and grab the most important meal of the day! Enjoy breakfast along with fellow attendees at the hotel restaurant.",
-    "location": "",
+    "location": "Fusions Restaurant",
     "participants": []
   },
   {
@@ -451,7 +451,7 @@
     "date": "Saturday, June 3rd 2023",
     "time": "12:00PM",
     "description": "Take a break and grab some grub! Enjoy lunch with fellow attendees at the hotel restaurant.",
-    "location": "",
+    "location": "Fusions Restaurant",
     "participants": []
   },
   {
@@ -729,7 +729,7 @@
     "date": "Sunday, June 4th 2023",
     "time": "8:00AM",
     "description": "Wake up with your Size fam and grab the most important meal of the day! Enjoy breakfast along with fellow attendees at the hotel restaurant.",
-    "location": "",
+    "location": "Fusions Restaurant",
     "participants": []
   },
   {
@@ -831,7 +831,7 @@
     "date": "Sunday, June 4th 2023",
     "time": "12:00PM",
     "description": "Take a break and grab some grub! Enjoy lunch with fellow attendees at the hotel restaurant. ",
-    "location": "",
+    "location": "Fusions Restaurant",
     "participants": []
   },
   {
@@ -928,7 +928,7 @@
     "time": "5:00PM - 5:50PM",
     "description": "A few parting words from the Size Con Crew. This is the time where we say goodbye and give thanks to our awesome guests and dedicated volunteers with a quick video presentation! Thank you all for another great convention!",
     "location": "Salon D",
-    "participants": []
+    "participants": ["jitensha-sw"]
   },
   {
     "title": "Pizza Party",
@@ -945,12 +945,12 @@
     "date": "Sunday, June 4th 2023",
     "time": "7:00PM - 9:00PM",
     "description": "More info coming soon!",
-    "location": "",
+    "location": "Salon D",
     "participants": ["giant-gripper", "praedatorius"]
   },
   {
     "title": "SizeCon Feedback Social",
-    "slug": "giantess-and-tiny-men-social",
+    "slug": "sizecon-feedback-social",
     "date": "Sunday, June 4th 2023",
     "time": "7:00PM - 7:50PM",
     "description": "We rely on YOUR feedback every year to make SizeCon the best event it can be. This is actually NOT a social but a chance to share directly with SizeCon staff your ideas about what could be better, what was INCREDIBLE, and what you want to see for next time! We can't do this without you, so thank you!",
@@ -973,6 +973,6 @@
     "time": "12:00AM",
     "description": "Thanks for another unforgettable year at SizeCon!",
     "location": "",
-    "participants": ["jitensha-sw"]
+    "participants": []
   }
 ]

@@ -10,7 +10,6 @@ import {
 import clsx from 'clsx'
 import { useLocalStorage } from 'usehooks-ts'
 import app_logo_src from 'assets/images/app_logo.gif'
-import { AnimatePresence } from 'framer-motion'
 
 type IconType = typeof HiOutlineHome
 

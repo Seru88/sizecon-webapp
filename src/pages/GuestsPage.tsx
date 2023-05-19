@@ -94,7 +94,7 @@ const GuestsPage: FC = () => {
         <option value='Production Studio'>Production Studios</option>
         <option value='Community Group'>Community Groups</option>
       </select>
-      <div className='grid grid-cols-1 gap-4 md:grid-cols-2'>
+      <div className='grid grid-cols-1 gap-6 md:grid-cols-2'>
         {filteredGuests.map(guest => {
           const isBookmarked = bookmarks.includes(guest.slug)
           const addDivider = prev !== guest.category
@@ -102,14 +102,14 @@ const GuestsPage: FC = () => {
           return (
             <Fragment key={guest.slug}>
               {addDivider ? (
-                <div className='divider text-xl uppercase'>
+                <div className='divider text-xl uppercase md:col-span-2'>
                   {`${guest.category}s`}
                 </div>
               ) : null}
               <div
                 id={guest.slug}
                 className={clsx(
-                  'card card-side card-compact relative shadow-md',
+                  'card-compact card card-side relative shadow-md',
                   isBookmarked
                     ? 'bg-primary text-primary-content'
                     : 'bg-neutral text-neutral-content'
