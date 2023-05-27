@@ -1,5 +1,14 @@
 [
   {
+    "title": "Badge Pick-Up Opens",
+    "slug": "badge-pick-up",
+    "date": "Friday, June 2nd 2023",
+    "time": "7:00AM",
+    "description": "While the con floor is not open yet, if you’re blessed with being a morning-person, you can get ahead of the lines and stop by our Badge Pick-Up booth to obtain your badge and SizeCon swag goodie bag before everyone else! Don’t forget, you can make your check-in process even quicker by completing the Vouched.id verification process sent to you via e-mail after purchasing your ticket.",
+    "location": "Event Entrance",
+    "participants": []
+  },
+  {
     "title": "Breakfast",
     "slug": "breakfast-1",
     "date": "Friday, June 2nd 2023",
@@ -30,7 +39,7 @@
     "title": "Vendor Open House",
     "slug": "vendor-open-house-1",
     "date": "Friday, June 2nd 2023",
-    "time": "10:00AM - 11:50PM",
+    "time": "10:00AM - 12:00PM",
     "description": "Dedicated hours to visit our Vendor Hall. A great time to commission artists, buy artwork and sizey products, and visit our talent. Don’t forget to see what exciting services and demos are available as well!",
     "location": "Salon AB",
     "participants": []
@@ -71,7 +80,7 @@
     "title": "Lunch",
     "slug": "lunch-1",
     "date": "Friday, June 2nd 2023",
-    "time": "12:00PM",
+    "time": "12:00PM - 1:00PM",
     "description": "Take a break and grab some grub! Enjoy lunch with fellow attendees at the hotel restaurant.",
     "location": "Fusions Restaurant",
     "participants": []
@@ -173,6 +182,15 @@
     "participants": []
   },
   {
+    "title": "Size Ladies Social",
+    "slug": "size-ladies-social",
+    "date": "Friday, June 2nd 2023",
+    "time": "4:00PM - 4:50PM",
+    "description": "Join a space only for women to share your experiences and discuss the joys, stresses, and triumphs of being a woman in the size community.",
+    "location": "Library",
+    "participants": ["jitensha-sw"]
+  },
+  {
     "title": "Size & Self Discovery Panel",
     "slug": "size-and-self-discovery-panel",
     "date": "Friday, June 2nd 2023",
@@ -191,7 +209,7 @@
     "title": "Size Wars",
     "slug": "size-wars-2",
     "date": "Friday, June 2nd 2023",
-    "time": "5:00PM - 5:50PM",
+    "time": "5:00PM - 7:00PM",
     "description": "Come one, come all, to Size Con’s premiere gaming event! Compete with other attendees to be the champion of Size Wars!",
     "location": "Salon D",
     "participants": []
@@ -218,7 +236,7 @@
     "title": "Dinner",
     "slug": "dinner-1",
     "date": "Friday, June 2nd 2023",
-    "time": "6:00PM",
+    "time": "6:00PM - 7:00PM",
     "description": "Take a break and grab some grub! Enjoy dinner with fellow attendees at the hotel restaurant.",
     "location": "",
     "participants": []
@@ -292,24 +310,7 @@
     "location": "Salon C",
     "participants": ["hollewdz", "katnips", "miss-kaneda", "taedis"]
   },
-  {
-    "title": "Weight Gain Café",
-    "slug": "weight-gain-cafe",
-    "date": "Friday, June 2nd 2023",
-    "time": "9:00PM - 9:50PM",
-    "description": "Come one, come all! Pick up your BIG BUCKS at the Weight Gain Bazaar and help one lucky lady grow exponentially bigger, better and sexier!",
-    "location": "Salon D",
-    "participants": [
-      "reiina-pop",
-      "saucy-sapphire",
-      "chibiana",
-      "moolencia",
-      "lushaani",
-      "ohnoboobs",
-      "astra-ebonwing",
-      "maxgrowth-productions"
-    ]
-  },
+
   {
     "title": "Darkside Social",
     "slug": "darkside-social",
@@ -332,7 +333,7 @@
     "title": "Breakfast",
     "slug": "breakfast-2",
     "date": "Saturday, June 3rd 2023",
-    "time": "8:00AM - 8:50AM",
+    "time": "8:00AM - 9:00AM",
     "description": "Wake up with your Size fam and grab the most important meal of the day! Enjoy breakfast along with fellow attendees at the hotel restaurant.",
     "location": "Fusions Restaurant",
     "participants": []
@@ -365,15 +366,6 @@
     "participants": []
   },
   {
-    "title": "⚣ WLW Social 🏳️‍🌈",
-    "slug": "wlw-social",
-    "date": "Saturday, June 3rd 2023",
-    "time": "9:00AM - 9:50AM",
-    "description": "Welcome to the Women love Women social - A space at Size Con for women to talk to other women about their love for growing, shrinking and/or expanding ladies!",
-    "location": "Library",
-    "participants": []
-  },
-  {
     "title": "SizeCon Escape the Room",
     "slug": "sizecon-escape-the-room-1",
     "date": "Saturday, June 3rd 2023",
@@ -401,22 +393,22 @@
     "participants": ["demora-avarice", "maxgrowth-productions"]
   },
   {
-    "title": "Singles Social",
-    "slug": "singles-social",
+    "title": "⚣ WLW Social 🏳️‍🌈",
+    "slug": "wlw-social",
     "date": "Saturday, June 3rd 2023",
-    "time": "10:00AM - 10:50PM",
-    "description": "A space for those who may or may not be looking for a relationship to connect around the shared experience of being a single size fan!",
-    "location": "Miracle Room",
+    "time": "10:00AM - 10:50AM",
+    "description": "Welcome to the Women love Women social - A space at Size Con for women to talk to other women about their love for growing, shrinking and/or expanding ladies!",
+    "location": "Library",
     "participants": []
   },
   {
-    "title": "A Tour of the Erotic Edge",
-    "slug": "a-tour-of-the-erotic-edge",
+    "title": "⚣ MLM Social 🏳️‍🌈",
+    "slug": "mlm-social",
     "date": "Saturday, June 3rd 2023",
-    "time": "11:00AM - 11:50AM",
-    "description": "Meet Yale-Trained Anthropologist and Author Katharine Gates as she tells the stories behind her popular book Deviant Desires: A Tour of the Erotic Edge.",
-    "location": "Salon C",
-    "participants": ["katharine-gates"]
+    "time": "10:00AM - 10:50AM",
+    "description": "Welcome to the Men love Men social - A space at Size Con for men to talk to other men about their love for growing, shrinking and/or expanding dudes!",
+    "location": "Miracle Room",
+    "participants": []
   },
   {
     "title": "Casting Demonstration",
@@ -428,20 +420,26 @@
     "participants": ["demora-avarice"]
   },
   {
-    "title": "Size Ladies Social",
-    "slug": "size-ladies-social",
+    "title": "Size Art Production Panel",
+    "slug": "size-art-production-panel",
     "date": "Saturday, June 3rd 2023",
     "time": "11:00AM - 11:50AM",
-    "description": "Join a space only for women to share your experiences and discuss the joys, stresses, and triumphs of being a woman in the size community.",
-    "location": "Library",
-    "participants": []
+    "description": "Have you ever wondered what it takes to create the amazing size art you consume? Meet our roundtable of active size art producers as they deep dive into their process, challenges, how they’ve been able to build careers making size art, and maybe even share some interesting customer stories too! ",
+    "location": "Salon C",
+    "participants": [
+      "jitensha-sw",
+      "mabo-corescant",
+      "hollewdz",
+      "tail-blazer",
+      "lillhappycloud"
+    ]
   },
   {
-    "title": "⚣ MLM Social 🏳️‍🌈",
-    "slug": "mlm-social",
+    "title": "Singles Social",
+    "slug": "singles-social",
     "date": "Saturday, June 3rd 2023",
-    "time": "11:00AM - 11:50AM",
-    "description": "Welcome to the Men love Men social - A space at Size Con for men to talk to other men about their love for growing, shrinking and/or expanding dudes!",
+    "time": "11:00AM - 11:50PM",
+    "description": "A space for those who may or may not be looking for a relationship to connect around the shared experience of being a single size fan!",
     "location": "Miracle Room",
     "participants": []
   },
@@ -449,7 +447,7 @@
     "title": "Lunch",
     "slug": "lunch-2",
     "date": "Saturday, June 3rd 2023",
-    "time": "12:00PM",
+    "time": "12:00PM - 1:00PM",
     "description": "Take a break and grab some grub! Enjoy lunch with fellow attendees at the hotel restaurant.",
     "location": "Fusions Restaurant",
     "participants": []
@@ -491,28 +489,20 @@
     "participants": ["aliana", "jitensha-sw", "bust-artist", "the-producer"]
   },
   {
-    "title": "Size Wars",
-    "slug": "size-wars-3",
+    "title": "Trans Size Social 🏳️‍⚧️",
+    "slug": "trans-size-panel",
     "date": "Saturday, June 3rd 2023",
     "time": "2:00PM - 2:50PM",
-    "description": "Come one, come all, to Size Con’s premiere gaming event! Compete with other attendees to be the champion of Size Wars!",
-    "location": "Salon D",
-    "participants": []
-  },
-  {
-    "title": "Blueberry Social",
-    "slug": "blueberry-social",
-    "date": "Saturday, June 3rd 2023",
-    "time": "2:00PM - 2:50PM",
-    "description": "For those who like them round, juicy blueberries - come sit and discuss how your interests came to be and how you enjoy them today!",
+    "description": "This social is for those in the community who are Transgender and want to share their own unique life experiences and size fantasies.",
     "location": "Miracle Room",
-    "participants": []
+    "participants": ["lushaani"]
   },
+
   {
     "title": "D&D Campaign",
     "slug": "dnd-campaign-1",
     "date": "Saturday, June 3rd 2023",
-    "time": "3:00PM - 5:50PM",
+    "time": "2:00PM - 5:00PM",
     "description": "There’s treasure to be grabbed, monsters to tackle, and traps to avoid, but this time our party of adventurers is going to have to deal with a different scale of challenge. Back by popular demand, join some of the best GMs from within the Size community to roll some dice and see just how dangerous a few magic spells in the wrong hands can be! Spots do fill up, so we highly suggest to sign up before the event.",
     "location": "Salon D",
     "participants": []
@@ -543,15 +533,6 @@
     "participants": []
   },
   {
-    "title": "Hungry Hunnies",
-    "slug": "hungry-hunnies",
-    "date": "Saturday, June 3rd 2023",
-    "time": "4:00PM - 4:50PM",
-    "description": "Being swallowed by a sexy Giantess drives you crazy! Vore fans unite to discuss hungry hunnies who love tiny snacks! Hungry Giantesses and foolish prey welcome.",
-    "location": "Miracle Room",
-    "participants": []
-  },
-  {
     "title": "Macrophile Panel",
     "slug": "macrophile-panel",
     "date": "Saturday, June 3rd 2023",
@@ -561,25 +542,47 @@
     "participants": ["home-giant", "matthew-huntley", "robclassact"]
   },
   {
-    "title": "Talent Q&A Panel",
-    "slug": "talent-qna-panel",
+    "title": "Hungry Hunnies",
+    "slug": "hungry-hunnies",
+    "date": "Saturday, June 3rd 2023",
+    "time": "4:00PM - 4:50PM",
+    "description": "Being swallowed by a sexy Giantess drives you crazy! Vore fans unite to discuss hungry hunnies who love tiny snacks! Hungry Giantesses and foolish prey welcome.",
+    "location": "Miracle Room",
+    "participants": []
+  },
+  {
+    "title": "Giantess Panel",
+    "slug": "giantess-panel",
     "date": "Saturday, June 3rd 2023",
     "time": "5:00PM - 5:50PM",
-    "description": "Hear straight from your favorite adult performers about what it’s like, what it takes and why they chose career paths in adult film making. Make sure to bring your questions to our talented panelists! ",
+    "description": "Celebrating the Goddesses, Amazons and Giant women of the Size community! Check out this amazing panel all about looming ladies and share your questions with our Giantess panelists!",
     "location": "Salon C",
+    "participants": ["miss-kaneda", "hollewdz"]
+  },
+  {
+    "title": "Weight Gain Café",
+    "slug": "weight-gain-cafe",
+    "date": "Saturday, June 3rd 2023",
+    "time": "5:00PM - 5:50PM",
+    "description": "Come one, come all! Pick up your BIG BUCKS at the Weight Gain Bazaar and help one lucky lady grow exponentially bigger, better and sexier!",
+    "location": "Salon D",
     "participants": [
-      "demora-avarice",
-      "astro-domina",
-      "alexa-balloon-girl",
-      "saucy-sapphire"
+      "saucy-sapphire",
+      "chibiana",
+      "moolencia",
+      "lushaani",
+      "ohnoboobs",
+      "astra-ebonwing",
+      "maxgrowth-productions",
+      "jitensha-sw"
     ]
   },
   {
-    "title": "Trans Size Social 🏳️‍⚧️",
-    "slug": "trans-size-panel",
+    "title": "Size Supporters Social 💚",
+    "slug": "size-supporters-social",
     "date": "Saturday, June 3rd 2023",
     "time": "5:00PM - 5:50PM",
-    "description": "This social is for those in the community who are Transgender and want to share their own unique life experiences and size fantasies.",
+    "description": "Size isn’t your thing? Don’t worry. We know. We're sometimes a lot to deal with. But we know you love us, because you're here at SizeCon celebrating with us! If you are not a size fan but here to support someone, stop by this social to speak with other folks who are also in relationships with a size partner or partners! Share experiences, tips, vent, etc. You are part of the community too, so feel free to participate in a casual, private setting, in a space just for you!",
     "location": "Miracle Room",
     "participants": []
   },
@@ -609,6 +612,15 @@
     "description": "Featuring Demora and other size talent, come enjoy the company of SizeCon's Breast Expansion loving crew at our interactive Role-Play event! Tips appreciated!",
     "location": "Salon D",
     "participants": ["demora-avarice", "alexa-balloon-girl", "chibiana"]
+  },
+  {
+    "title": "Blueberry Social",
+    "slug": "blueberry-social",
+    "date": "Saturday, June 3rd 2023",
+    "time": "7:00PM - 7:50PM",
+    "description": "For those who like them round, juicy blueberries - come sit and discuss how your interests came to be and how you enjoy them today!",
+    "location": "Miracle Room",
+    "participants": []
   },
   {
     "title": "The Writers Workshop",
@@ -642,30 +654,13 @@
       "katnips"
     ]
   },
-  {
-    "title": "Spanish Social 🌎",
-    "slug": "spanish-social",
-    "date": "Saturday, June 3rd 2023",
-    "time": "8:00PM - 8:50PM",
-    "description": "¿Eres fanático de Gigantes, gente diminuto, expansión de pecho o otros fetiches? ¡Bueno, discuta con sus nuevos amigos en tu idioma!",
-    "location": "Miracle Room",
-    "participants": []
-  },
+
   {
     "title": "Weight Gain Social",
     "slug": "weight-gain-social",
     "date": "Saturday, June 3rd 2023",
-    "time": "9:00PM - 9:50PM",
+    "time": "8:00PM - 8:50PM",
     "description": "Consensual, intentional weight gain can be a hot button issue. Issues such as monetary the costs involved, lifestyle/health choices and social taboo all play a major role. Feeders, feedees, gainers, and anyone interested in discussing the ups and downs of the Weight Gain community are invited to join us for an hour long group discussion.",
-    "location": "Library",
-    "participants": []
-  },
-  {
-    "title": "Micro Talks",
-    "slug": "micro-talks",
-    "date": "Saturday, June 3rd 2023",
-    "time": "9:00PM - 9:50PM",
-    "description": "Feeling inspired by the day? Have a short story or testimonial you want to give? Wanting to test out a TED talk related to size? Our MicroTalks is your chance to seize the mic and deliver a shortened TED inspired talk about size. All topics welcome! Be prepared to share a summary at the start of the event.",
     "location": "Miracle Room",
     "participants": []
   },
@@ -678,6 +673,25 @@
     "location": "Salon D",
     "participants": ["chibiana", "moolencia", "goddess-lauren"]
   },
+  {
+    "title": "Micro Talks",
+    "slug": "micro-talks",
+    "date": "Saturday, June 3rd 2023",
+    "time": "9:00PM - 9:50PM",
+    "description": "Feeling inspired by the day? Have a short story or testimonial you want to give? Wanting to test out a TED talk related to size? Our MicroTalks is your chance to seize the mic and deliver a shortened TED inspired talk about size. All topics welcome! Be prepared to share a summary at the start of the event.",
+    "location": "Miracle Room",
+    "participants": []
+  },
+  {
+    "title": "Spanish Social 🌎",
+    "slug": "spanish-social",
+    "date": "Saturday, June 3rd 2023",
+    "time": "9:00PM - 9:50PM",
+    "description": "¿Eres fanático de Gigantes, gente diminuto, expansión de pecho o otros fetiches? ¡Bueno, discuta con sus nuevos amigos en tu idioma!",
+    "location": "Library",
+    "participants": []
+  },
+
   {
     "title": "Content Creator Social",
     "slug": "content-creator-social",
@@ -736,7 +750,7 @@
     "title": "Vendor Hall",
     "slug": "vendor-hall-3",
     "date": "Sunday, June 4th 2023",
-    "time": "9:00AM - 5:00PM",
+    "time": "9:00AM - 9:00PM",
     "description": "Come and checkout the many amazing, unique and risqué goods sold by our talented creators and performers! Commission artists and talent alike, buy artwork and sizey products, and don’t forget to see what exciting services and demos are available!",
     "location": "Salon AB",
     "participants": []
@@ -749,6 +763,15 @@
     "description": "We have had a blast putting together online events over the past years since our last in person SizeCon, and we have had such a wonderful time meeting new folks.  This social will be our chance to include and reconnect  with those who can't make it all the way to NJ.  This social will be an informal opportunity to say hi, meet some of the incredible folks who have contributed to our online spaces, and let those who can't join us in on some of the action!",
     "location": "Miracle Room",
     "participants": []
+  },
+  {
+    "title": "SizeCon Escape the Room",
+    "slug": "sizecon-escape-the-room-2",
+    "date": "Sunday, June 4th 2023",
+    "time": "10:00AM - 5:00PM",
+    "description": "Back by popular demand, enjoy a whole brand-new puzzle, brought to you by our puzzle master Scidram (a.k.a. Syrus Durham)! Who's willing to take a fantastic voyage and solve this oversized mystery? Can it be done in forty-five minutes before the reduction process reverts? Come to SizeCon 2023 and find out!",
+    "location": "Salon AB",
+    "participants": ["syrus-durham"]
   },
   {
     "title": "Diversity in the Size Community",
@@ -766,15 +789,6 @@
     ]
   },
   {
-    "title": "Uneven & Extreme Size Social",
-    "slug": "uneven-and-extreme-size-social",
-    "date": "Sunday, June 4th 2023",
-    "time": "10:00AM-10:50AM",
-    "description": "Do you like beings who are the size of planets or microscopic tinies? Or how about people who grow  or shrink their certain body parts unevenly? If so, you're in good company! Come join us for a discussion on Uneven & Extreme Size!",
-    "location": "Miracle Room",
-    "participants": []
-  },
-  {
     "title": "Silver Social",
     "slug": "silver-social",
     "date": "Sunday, June 4th 2023",
@@ -784,13 +798,13 @@
     "participants": []
   },
   {
-    "title": "SizeCon Escape the Room",
-    "slug": "sizecon-escape-the-room-2",
+    "title": "Uneven & Extreme Size Social",
+    "slug": "uneven-and-extreme-size-social",
     "date": "Sunday, June 4th 2023",
-    "time": "10:00AM - 5:00PM",
-    "description": "Back by popular demand, enjoy a whole brand-new puzzle, brought to you by our puzzle master Scidram (a.k.a. Syrus Durham)! Who's willing to take a fantastic voyage and solve this oversized mystery? Can it be done in forty-five minutes before the reduction process reverts? Come to SizeCon 2023 and find out!",
-    "location": "Salon AB",
-    "participants": ["syrus-durham"]
+    "time": "10:00AM-10:50AM",
+    "description": "Do you like beings who are the size of planets or microscopic tinies? Or how about people who grow  or shrink their certain body parts unevenly? If so, you're in good company! Come join us for a discussion on Uneven & Extreme Size!",
+    "location": "Miracle Room",
+    "participants": []
   },
   {
     "title": "Producer Q & A Panel",
@@ -858,15 +872,7 @@
       "jitensha-sw"
     ]
   },
-  {
-    "title": "Size Supporters Social",
-    "slug": "size-supporters-social",
-    "date": "Sunday, June 4th 2023",
-    "time": "1:00PM - 1:50PM",
-    "description": "We know. We're sometimes a lot to deal with. But we know you love us, because you're here at SizeCon celebrating with us! If you are not a size fan but here to support someone, stop by this social to speak with other folks who are also in relationships with a size partner or partners! Share experiences, tips, vent, etc. You are part of the community too, so feel free to participate in a casual, private setting, in a space just for you!",
-    "location": "Library",
-    "participants": []
-  },
+
   {
     "title": "Neurodivergence Social",
     "slug": "neurodivergence-social",
@@ -877,13 +883,31 @@
     "participants": []
   },
   {
+    "title": "The Monster Social",
+    "slug": "the-monster-social",
+    "date": "Sunday, June 4th 2023",
+    "time": "1:00PM - 1:50PM",
+    "description": "Are Kaiju your spirit animal? Do you think a bit too much about getting off to Giant robots, pregnant vampires or unreasonably hunky demons? If you want to be a monster or enjoy monsters than this is the social for you!",
+    "location": "Library",
+    "participants": []
+  },
+  {
     "title": "Size History Panel",
     "slug": "size-history-panel",
     "date": "Sunday, June 4th 2023",
     "time": "2:00PM - 2:50PM",
     "description": "How did we as a community get here? Well, it's time you hear it straight from the lips of those who started it all!",
     "location": "Salon C",
-    "participants": ["katharine-gates", "taedis", "aborigen"]
+    "participants": ["taedis", "aborigen"]
+  },
+  {
+    "title": "D&D Campaign",
+    "slug": "dnd-campaign-2",
+    "date": "Sunday, June 4th 2023",
+    "time": "2:00PM - 5:00PM",
+    "description": "There’s treasure to be grabbed, monsters to tackle, and traps to avoid, but this time our party of adventurers is going to have to deal with a different scale of challenge. Back by popular demand, join some of the best GMs from within the Size community to roll some dice and see just how dangerous a few magic spells in the wrong hands can be! Spots do fill up, so we highly suggest to sign up before the event.",
+    "location": "Salon D",
+    "participants": []
   },
   {
     "title": "Giant Men & Tiny Ladies Social",
@@ -895,31 +919,64 @@
     "participants": []
   },
   {
-    "title": "Giantess & Tiny Men Social",
-    "slug": "giantess-and-tiny-men-social",
+    "title": "Inflation Social",
+    "slug": "inflation-social",
     "date": "Sunday, June 4th 2023",
     "time": "2:00PM - 2:50PM",
-    "description": "Whether romantic or domineering, Giantess' and Tiny men gather for a deep dive on what makes you tick!",
+    "description": "For fans of bodies (or body parts) that keep getting bigger and rounder. Come sit and discuss how your interests came to be and how you enjoy them today!",
     "location": "Library",
-    "participants": []
-  },
-  {
-    "title": "D&D Campaign",
-    "slug": "dnd-campaign-2",
-    "date": "Sunday, June 4th 2023",
-    "time": "2:00PM - 4:50PM",
-    "description": "There’s treasure to be grabbed, monsters to tackle, and traps to avoid, but this time our party of adventurers is going to have to deal with a different scale of challenge. Back by popular demand, join some of the best GMs from within the Size community to roll some dice and see just how dangerous a few magic spells in the wrong hands can be! Spots do fill up, so we highly suggest to sign up before the event.",
-    "location": "Salon D",
     "participants": []
   },
   {
     "title": "Vendor Open House",
     "slug": "vendor-open-house-2",
     "date": "Sunday, June 4th 2023",
-    "time": "3:00PM - 4:50PM",
+    "time": "3:00PM - 5:00PM",
     "description": "Dedicated hours to visit our Vendor Hall. A great time to commission artists, buy artwork and sizey products, and visit our talent. Don’t forget to see what exciting services and demos are available as well!",
     "location": "Salon AB",
     "participants": []
+  },
+  {
+    "title": "Tech Talk: Building the Future of the Size Community",
+    "slug": "tech-talk-building-the-future-of-the-size-community",
+    "date": "Sunday, June 4th 2023",
+    "time": "3:00PM - 3:50PM",
+    "description": "We take it for granted, but the infrastructure that we use to navigate our favorite online size spaces were built by passionate size fans just like you. Join our tech-savy panelists to discuss how they came about building the games, VR, forums and other online size spaces we use every day - Maybe you’ll learn how to make your own size spaces too!",
+    "location": "Salon C",
+    "participants": ["astra-ebonwing", "daddys-dollhouse", "alexa-balloon-girl"]
+  },
+  {
+    "title": "Giantess & Tiny Men Social",
+    "slug": "giantess-and-tiny-men-social",
+    "date": "Sunday, June 4th 2023",
+    "time": "3:00PM - 3:50PM",
+    "description": "Whether romantic or domineering, Giantess' and Tiny men gather for a deep dive on what makes you tick!",
+    "location": "Library",
+    "participants": []
+  },
+
+  {
+    "title": "Talent Q&A Panel",
+    "slug": "talent-qna-panel",
+    "date": "Sunday, June 4th 2023",
+    "time": "4:00PM - 4:50PM",
+    "description": "Hear straight from your favorite adult performers about what it’s like, what it takes and why they chose career paths in adult film making. Make sure to bring your questions to our talented panelists! ",
+    "location": "Salon C",
+    "participants": [
+      "demora-avarice",
+      "astro-domina",
+      "alexa-balloon-girl",
+      "saucy-sapphire"
+    ]
+  },
+  {
+    "title": "The Humiliation Social",
+    "slug": "the-humiliation-social",
+    "date": "Sunday, June 4th 2023",
+    "time": "4:00PM - 4:50PM",
+    "description": "Is your humiliation fantasty….well, humiliating? Join a roundtable talk with fellow humiliation fans to discuss the many ways we enjoy being humiliated or humiliating others. We’ll discuss how we explore this fantasy in reality, challenges we may face, and so much more. If you like being belittled, bullied, spit on, sat on, stepped on, used as a toilet…you get this gist - come join us!",
+    "location": "Miracle Room",
+    "participants": ["jitensha-sw"]
   },
   {
     "title": "Closing Ceremony",
@@ -931,20 +988,20 @@
     "participants": ["jitensha-sw"]
   },
   {
-    "title": "Pizza Party",
+    "title": "Dinner",
     "slug": "dinner-3",
     "date": "Sunday, June 4th 2023",
-    "time": "6:00PM - 6:50PM",
-    "description": "Grab a slice and take one last break with the gang as we celebrate the end of another memorable SizeCon! Meal Plan tickets needed for entry.",
+    "time": "6:00PM - 7:00PM",
+    "description": "Take a break and grab some grub! Enjoy dinner with fellow attendees at the hotel restaurant. ",
     "location": "",
     "participants": []
   },
   {
-    "title": "City Destruction",
+    "title": "SizeCon City Destruction Raffle",
     "slug": "city-destruction",
     "date": "Sunday, June 4th 2023",
     "time": "7:00PM - 9:00PM",
-    "description": "More info coming soon!",
+    "description": "Marvel at the model city destined for destruction! Attendees are encouraged to buy tickets for the chance to win entire city blocks. The lucky winners will get to destroy their winnings with their bare hands and feet in an orgy of destruction. Attendees are encouraged to take photos with the city before final destruction.",
     "location": "Salon D",
     "participants": ["giant-gripper", "praedatorius"]
   },
@@ -961,7 +1018,7 @@
     "title": "Silent Auction Charity Event",
     "slug": "silent-auction-charity-event",
     "date": "Sunday, June 4th 2023",
-    "time": "9:00PM",
+    "time": "10:00PM",
     "description": "Want to support a noble cause? Want to get some really awesome swag from some of your favorite artists and writers? Come fill out our silent charity auction form and do both at the same time! 100% of the proceeds from this event will be donated to the Human Rights Campaign. More information available at https://www.hrc.org/.",
     "location": "Salon C",
     "participants": []
