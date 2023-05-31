@@ -1,5 +1,4 @@
 import { FC, useEffect, useState } from 'react'
-import { motion } from 'framer-motion'
 import Page from 'components/Page'
 const eventStart = new Date('Jun 2 2023 09:00:00 GMT-0500').getTime()
 
@@ -147,6 +146,15 @@ const HomePage: FC = () => {
           Sec
         </div>
       </div>
+      {/* <div className='divider' /> */}
+      <a
+        className='btn-block btn'
+        href='https://drive.google.com/file/d/1LSS32K_xNKqG5apHBKt5DkR0FDh_hhiG/view'
+        target='_blank'
+        rel='noreferrer'
+      >
+        Read the Survival Guide
+      </a>
       <div className='divider' />
       <div className='collapse-open rounded-box collapse bg-neutral text-neutral-content'>
         <input type='checkbox' />
