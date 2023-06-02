@@ -1,6 +1,6 @@
-import { FC, useEffect, useState } from 'react'
+import { FC } from 'react'
 import Page from 'components/Page'
-const eventStart = new Date('Jun 2 2023 09:00:00 GMT-0500').getTime()
+// const eventStart = new Date('Jun 2 2023 09:00:00 GMT-0500').getTime()
 
 const rules = [
   {
@@ -93,69 +93,69 @@ const rules = [
 ]
 
 const HomePage: FC = () => {
-  const [countdown, setCountdown] = useState(eventStart - Date.now())
+  // const [countdown, setCountdown] = useState(eventStart - Date.now())
 
-  useEffect(() => {
-    const intervalId = setInterval(() => {
-      setCountdown(eventStart - Date.now())
-    }, 1000)
-    return () => {
-      clearInterval(intervalId)
-    }
-  }, [])
+  // useEffect(() => {
+  //   const intervalId = setInterval(() => {
+  //     setCountdown(eventStart - Date.now())
+  //   }, 1000)
+  //   return () => {
+  //     clearInterval(intervalId)
+  //   }
+  // }, [])
 
-  const days = Math.floor(countdown / (1000 * 60 * 60 * 24))
-  const hours = Math.floor(
-    (countdown % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
-  )
-  const minutes = Math.floor((countdown % (1000 * 60 * 60)) / (1000 * 60))
-  const seconds = Math.floor((countdown % (1000 * 60)) / 1000)
+  // const days = Math.floor(countdown / (1000 * 60 * 60 * 24))
+  // const hours = Math.floor(
+  //   (countdown % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+  // )
+  // const minutes = Math.floor((countdown % (1000 * 60 * 60)) / (1000 * 60))
+  // const seconds = Math.floor((countdown % (1000 * 60)) / 1000)
 
   return (
     <Page>
-      <h2 className='mb-4 text-center text-2xl font-semibold'>
+      {/* <h2 className='mb-4 text-center text-2xl font-semibold'>
         Countdown to SizeCon 2023!
       </h2>
       <div className='mb-4 grid auto-cols-max grid-flow-col justify-center gap-5 text-center'>
         <div className='rounded-box flex flex-col bg-primary p-2 text-primary-content'>
           <span className='countdown font-mono text-5xl'>
-            {/* @ts-expect-errors this is part of daisyUI api. */}
+            @ts-expect-errors this is part of daisyUI api.
             <span style={{ '--value': days }} />
           </span>
           Days
         </div>
         <div className='rounded-box flex flex-col bg-primary p-2 text-primary-content'>
           <span className='countdown font-mono text-5xl'>
-            {/* @ts-expect-errors this is part of daisyUI api. */}
+            @ts-expect-errors this is part of daisyUI api.
             <span style={{ '--value': hours }} />
           </span>
           Hours
         </div>
         <div className='rounded-box flex flex-col bg-primary p-2 text-primary-content'>
           <span className='countdown font-mono text-5xl'>
-            {/* @ts-expect-errors this is part of daisyUI api. */}
+            @ts-expect-errors this is part of daisyUI api.
             <span style={{ '--value': minutes }} />
           </span>
           Min
         </div>
         <div className='rounded-box flex flex-col bg-primary p-2 text-primary-content'>
           <span className='countdown font-mono text-5xl'>
-            {/* @ts-expect-errors this is part of daisyUI api. */}
+            @ts-expect-errors this is part of daisyUI api.
             <span style={{ '--value': seconds }} />
           </span>
           Sec
         </div>
-      </div>
+      </div> */}
       {/* <div className='divider' /> */}
       <a
-        className='btn-block btn'
+        className='btn-primary rounded-box btn-block btn mb-4'
         href='https://drive.google.com/file/d/1LSS32K_xNKqG5apHBKt5DkR0FDh_hhiG/view'
         target='_blank'
         rel='noreferrer'
       >
         Read the Survival Guide
       </a>
-      <div className='divider' />
+      {/* <div className='divider' /> */}
       <div className='collapse-open rounded-box collapse bg-neutral text-neutral-content'>
         <input type='checkbox' />
         <h2 className='collapse-title text-xl font-bold'>Rules</h2>
