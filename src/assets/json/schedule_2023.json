@@ -236,7 +236,7 @@
     "title": "Dinner",
     "slug": "dinner-1",
     "date": "Friday, June 2nd 2023",
-    "time": "6:00PM - 7:00PM",
+    "time": "6:30PM - 9:00PM",
     "description": "Take a break and grab some grub! Enjoy dinner with fellow attendees at the hotel restaurant.",
     "location": "",
     "participants": []
@@ -251,11 +251,11 @@
     "participants": ["alexa-balloon-girl"]
   },
   {
-    "title": "Gulliveria Café",
+    "title": "Gulliveria Café [CANCELED]",
     "slug": "gulliveria-café",
     "date": "Friday, June 2nd 2023",
     "time": "7:00PM - 7:50PM",
-    "description": "Thirsty? Join us for an unforgettable Giantess experience at our new and improved interactive Role-Play and Variety Cafe Show experience! We'll be featuring several acts by our crew of stunning Giantess performers - Entry is free, so don't miss it! Complementary Tea or Coffee is available if you can show our Giantess servers that you are worthy. Tips appreciated, space is limited!",
+    "description": "** THIS EVENT HAS BEEN CANCELLED DUE TO SOME LOGISTICAL ISSUES WITH OUT PREFORMERS - THE ACTS HOWEVER CAN STILL BE SEEN AT THE 9PM BURLESQUE SHOW ON SATURDAY**",
     "location": "Miracle Room",
     "participants": [
       "astro-domina",
@@ -596,7 +596,7 @@
     "title": "Dinner",
     "slug": "dinner-2",
     "date": "Saturday, June 3rd 2023",
-    "time": "6:00PM",
+    "time": "6:00PM - 9:00PM",
     "description": "Take a break and grab some grub! Enjoy dinner with fellow attendees at the hotel restaurant.",
     "location": "",
     "participants": []
@@ -988,7 +988,7 @@
     "title": "Dinner",
     "slug": "dinner-3",
     "date": "Sunday, June 4th 2023",
-    "time": "6:00PM - 7:00PM",
+    "time": "6:00PM - 9:00PM",
     "description": "Take a break and grab some grub! Enjoy dinner with fellow attendees at the hotel restaurant. ",
     "location": "",
     "participants": []
